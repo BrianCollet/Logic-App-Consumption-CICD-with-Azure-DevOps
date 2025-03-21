@@ -19,6 +19,9 @@
     },
     "blobAccessKeyConnectionName": {
       "value": "azureblob-1"
+    },
+    "blobEntraConnectionName": {
+      "value": "azureblob-2"
     }
   }
 }
